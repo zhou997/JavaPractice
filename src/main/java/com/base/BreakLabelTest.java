@@ -1,4 +1,4 @@
-package com.base.breakLabel;
+package com.base;
 
 public class BreakLabelTest {
     public static void main(String[] args) {
